@@ -3,3 +3,8 @@ verifico se a lâmpada está queimada
 aperto o interruptor , se não ligar :
 então desligo a energia da casa , caso eu não alcance a lâmpada ,
 pego uma escada , subo nela e efetuo a troca da lâmpada.
+
+2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
+a louça está suja , pego a bucha coloco detergente , ligo a torneita ,
+molho a louça e a bucha e em seguida esfrego a bucha com detergente na louça ,
+retiro o sabão da louça e coloco no escorredor para secar.
