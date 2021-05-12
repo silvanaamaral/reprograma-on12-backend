@@ -8,3 +8,13 @@ pego uma escada , subo nela e efetuo a troca da lâmpada.
 a louça está suja , pego a bucha coloco detergente , ligo a torneita ,
 molho a louça e a bucha e em seguida esfrego a bucha com detergente na louça ,
 retiro o sabão da louça e coloco no escorredor para secar.
+
+3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
+Pego o macacaco , o estepe e a chave de roda no porta-malas do carro em seguida 
+com a chave de roda e o pé , afrouxe os parafusos da roda , posicione o macaco embaixo do carro 
+e rode a chave de roda no sentido anti-horário para levantar o carro. Coloque o estepe embaixo do 
+carro para ele servir de apoio (caso o macaco desarme), termine de desapertar os parafusos e retire o pneu .
+pegue o pneu furado ele vai apoiar o carro ,retire o pneu novo do estepe e encaixe-o no carro , aperte os 
+parafusos , guarde as ferramentes na mala  e siga viagem .
+
+
