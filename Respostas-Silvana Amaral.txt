@@ -17,4 +17,8 @@ carro para ele servir de apoio (caso o macaco desarme), termine de desapertar os
 pegue o pneu furado ele vai apoiar o carro ,retire o pneu novo do estepe e encaixe-o no carro , aperte os 
 parafusos , guarde as ferramentes na mala  e siga viagem .
 
-
+4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
+chego no caixa eletrônico , pego a bolsa retiro o cartão da carteira ,introduzo o cartão 
+no caixa eletrônico e procedo com a inserção das informações para acessar a conta , após essa ação 
+verifique o saldo em conta , tendo saldo pegue o boleto de cobrança e faça a leitura do código de barras do boleto , 
+efetue o pagamento e retire os comprovantes , retire o cartão do caixa e guarde tudo na bolsa , tenha cuidado.
