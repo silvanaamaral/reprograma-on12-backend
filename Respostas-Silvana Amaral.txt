@@ -42,4 +42,6 @@ senão o número é ímpar .
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
 Inserir o nome do aluno , a nota 1 e a nota 2 , média é (n1+n2)/2 , se resultado for >=7 entao aluno aprovado ,senao aluno reprovado.
- 
+
+10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 1o%.
+Informe o novo salario do funcionario , se o novo salario for maior ou igual a R$500 adicione 20% ao novo salario , senão adicione 10% ao novo salário.
