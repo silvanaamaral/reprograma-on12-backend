@@ -1,10 +1,10 @@
-## Algoritmos
+ # Algoritmos
 
-_Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando estrutura de narrativa, fluxograma ou pseudocódigo. Consulte a professora!_
+*_Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando estrutura de narrativa, fluxograma ou pseudocódigo. Consulte a professora!_*
 
-1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
+1._ Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada._ 
 
-2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
+2. **Faça um algoritmo que mostre o passo a passo de uma lavar pratos.**
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
