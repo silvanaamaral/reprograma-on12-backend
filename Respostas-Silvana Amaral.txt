@@ -35,4 +35,9 @@ efetue o pagamento e retire os comprovantes , retire o cartão do caixa e guarde
  
 7. Faça um algoritmo que some três números.
 receber os três numeros , somar os três numeros , mostrar o resultado obtido.
+
+8. Faça um algoritmo que descubra se um número é par ou ímpar.
+escreva um numero , leia o numero , divida-o por 2 , se o resto da divisão do número por 2 for igual a zero , entao o número é par 
+senão o número é ímpar .
+
  
