@@ -22,3 +22,8 @@ chego no caixa eletrônico , pego a bolsa retiro o cartão da carteira ,introduz
 no caixa eletrônico e procedo com a inserção das informações para acessar a conta , após essa ação 
 verifique o saldo em conta , tendo saldo pegue o boleto de cobrança e faça a leitura do código de barras do boleto , 
 efetue o pagamento e retire os comprovantes , retire o cartão do caixa e guarde tudo na bolsa , tenha cuidado.
+
+5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
+ A professora prepara aula e dessa aula elabora uma prova , vai á escola , aplica a prova , volta pra casa ,chegando em casa organiza o ambiente de trabalho .
+ Coloca a pilha de provas sobre a mesa , pega prova a prova corrigi a prova e atribui nota ao aluno na prova e na caderneta.
+ E essa ação se repetirá até a ultima prova .
