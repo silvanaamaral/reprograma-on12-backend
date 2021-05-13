@@ -33,3 +33,6 @@ efetue o pagamento e retire os comprovantes , retire o cartão do caixa e guarde
  quando disser "VIVO" as crianças devem ficar de pé , mas quando disser "MORTO" as crianças devem ficar agachadas , esses comandos vão se alternando , e quem 
  errar o comando , vai saindo da brincadeira .
  
+7. Faça um algoritmo que some três números.
+receber os três numeros , somar os três numeros , mostrar o resultado obtido.
+ 
