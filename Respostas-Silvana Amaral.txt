@@ -40,4 +40,6 @@ receber os três numeros , somar os três numeros , mostrar o resultado obtido.
 escreva um numero , leia o numero , divida-o por 2 , se o resto da divisão do número por 2 for igual a zero , entao o número é par 
 senão o número é ímpar .
 
+9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
+Inserir o nome do aluno , a nota 1 e a nota 2 , média é (n1+n2)/2 , se resultado for >=7 entao aluno aprovado ,senao aluno reprovado.
  
