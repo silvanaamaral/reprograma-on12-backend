@@ -27,3 +27,9 @@ efetue o pagamento e retire os comprovantes , retire o cartão do caixa e guarde
  A professora prepara aula e dessa aula elabora uma prova , vai á escola , aplica a prova , volta pra casa ,chegando em casa organiza o ambiente de trabalho .
  Coloca a pilha de provas sobre a mesa , pega prova a prova corrigi a prova e atribui nota ao aluno na prova e na caderneta.
  E essa ação se repetirá até a ultima prova .
+
+6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+ A brincadeira é com um grupo de crianças e um  adulto , o adulto dará dois comandos ou "VIVO" ou "MORTO" .
+ quando disser "VIVO" as crianças devem ficar de pé , mas quando disser "MORTO" as crianças devem ficar agachadas , esses comandos vão se alternando , e quem 
+ errar o comando , vai saindo da brincadeira .
+ 
